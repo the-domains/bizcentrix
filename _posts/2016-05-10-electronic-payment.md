@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: electronic Payment
-datePublished: '2016-05-10T22:28:20.376Z'
-dateModified: '2016-05-10T22:28:17.921Z'
+datePublished: '2016-05-10T22:31:02.907Z'
+dateModified: '2016-05-10T22:29:56.180Z'
 title: Why Choose TransFirst®
 author: []
 sourcePath: _posts/2016-05-10-electronic-payment.md
