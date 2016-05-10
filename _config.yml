@@ -1,0 +1,28 @@
+name: BizCentrix
+favicon: null
+layout_spectrum: 0.46188242780044675
+typography_spectrum: 0.6999910471495241
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7969261661637574
+  lightness: 0.6741752189118415
+  saturation: 0.39289035252295434
+  rhythmicContrast: 0.8713895259425044
+purpose: []
