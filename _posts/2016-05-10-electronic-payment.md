@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: electronic Payment
-datePublished: '2016-05-10T22:31:02.907Z'
-dateModified: '2016-05-10T22:29:56.180Z'
+datePublished: '2016-05-10T22:32:29.050Z'
+dateModified: '2016-05-10T22:31:45.652Z'
 title: Why Choose TransFirst®
 author: []
 sourcePath: _posts/2016-05-10-electronic-payment.md
@@ -77,6 +77,60 @@ We think the answer is clear: TransFirst delivers the expert advice, state-of-th
 
 If you still have questions, complete the form on this page and we'll get back to you with answers. We look forward to doing business with you!
 
+# Rates & Fees
+
+Credit card processing costs are simpler than you think. At TransFirst(r), we take the mystery out of rates and fees, and can save you money in the process. Unlike other credit card processors, we don't hit you up with a long list of hidden fees, and we don't pull you in with a low teaser rate that shoots up shortly after you sign the contract. We're upfront about the rates and fees we charge for our products and services.
+
+Click on your type of credit card acceptance below in order to see the fees for that method processing:
+
+### Retail Merchant Account Rates
+
+Face-to-face transactions in which the card is swiped through a card reader.
+
+[][3][Learn More][4][][5]
+
+### Internet and Ecommerce Merchant Account Rates
+
+Transactions are processed on the Internet in real time.
+
+[][5][Learn More][6][][7]
+
+### Wireless Merchant Account Rates
+
+Transactions are swiped through a wireless terminal.
+
+[][7][Learn More][8][][9]
+
+### Phone Processing Rates
+
+Transactions are phoned in and entered via a touchtone phone.
+
+[][9][Learn More][10][][11]
+
+### Check Processing and ACH Rates
+
+Enables you to process checks(ACH) in addition to credit cards.
+
+[][11][Learn More][12][][13]
+
+### Mobile Swipe Processing Rates
+
+Transactions are processed through an app-equipped mobile device.
+
+[][13][Learn More][14]
+
 [0]: http://www.bbb.org/us/bbb-online-business/
 [1]: http://www.transfirst.com/equipment
 [2]: http://www.transfirst.com/support
+[3]: http://www.transfirst.com/processing-rates-fees/retail "Retail Merchant Account Rates"
+[4]: http://www.transfirst.com/processing-rates-fees/retail "Learn More"
+[5]: http://www.transfirst.com/processing-rates-fees/internet "Internet and Ecommerce Merchant Account Rates"
+[6]: http://www.transfirst.com/processing-rates-fees/internet "Learn More"
+[7]: http://www.transfirst.com/processing-rates-fees/wireless "Wireless Merchant Account Rates"
+[8]: http://www.transfirst.com/processing-rates-fees/wireless "Learn More"
+[9]: http://www.transfirst.com/processing-rates-fees/phone "Phone Processing Rates"
+[10]: http://www.transfirst.com/processing-rates-fees/phone "Learn More"
+[11]: http://www.transfirst.com/processing-rates-fees/ach-check "Check Processing and ACH Rates"
+[12]: http://www.transfirst.com/processing-rates-fees/ach-check "Learn More"
+[13]: http://www.transfirst.com/processing-rates-fees/mobile-swipe "Mobile Swipe Processing Rates"
+[14]: http://www.transfirst.com/processing-rates-fees/mobile-swipe "Learn More"
