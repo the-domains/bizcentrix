@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BizCentrix]]></title>
+        <description><![CDATA[BizCentrix]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 06:51:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MERCHANT SOLUTIONS]]></title>
+            <description><![CDATA[<article><h1>MERCHANT SOLUTIONS</h1><p>Over the years, BizCENTRix Merchant Services has supported business owners and their payment processing needs. Whether you’re retail, e-Commerce, mail order and telephone order (MOTO), or even a high-risk merchant we have a payment solution that works for you and your business.</p></article>]]></description>
+            <link>undefinedmerchant-solutions/index.html</link>
+            <guid isPermaLink="false">eb66867f-ccb9-4f14-816c-f1d55cc76a7d</guid>
+            <pubDate>Thu, 12 May 2016 06:51:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
