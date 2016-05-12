@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BizCentrix]]></title>
         <description><![CDATA[BizCentrix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bizcentrix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 06:51:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 07:19:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bizcentrix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[0.29% — SOME OF THE LOWEST RATES IN THE BUSINESS!]]></title>
+            <description><![CDATA[<article><h1>0.29% — SOME OF THE LOWEST RATES IN THE BUSINESS!</h1><p>We offer some of the lowest rates for payment processing you can find today.</p></article>]]></description>
+            <link>https://thegrid.ai/bizcentrix/029-some-of-the-lowest-rates-in-the-business/index.html</link>
+            <guid isPermaLink="false">cf07a9f1-c4f9-4e8e-a93e-ff4c36ce3f4b</guid>
+            <pubDate>Thu, 12 May 2016 07:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MERCHANT SOLUTIONS]]></title>
             <description><![CDATA[<article><h1>MERCHANT SOLUTIONS</h1><p>Over the years, BizCENTRix Merchant Services has supported business owners and their payment processing needs. Whether you’re retail, e-Commerce, mail order and telephone order (MOTO), or even a high-risk merchant we have a payment solution that works for you and your business.</p></article>]]></description>
-            <link>undefinedmerchant-solutions/index.html</link>
+            <link>https://thegrid.ai/bizcentrix/merchant-solutions/index.html</link>
             <guid isPermaLink="false">eb66867f-ccb9-4f14-816c-f1d55cc76a7d</guid>
             <pubDate>Thu, 12 May 2016 06:51:00 GMT</pubDate>
         </item>
